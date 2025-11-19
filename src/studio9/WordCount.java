@@ -5,8 +5,6 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
 
-import support.cse131.NotYetImplementedException;
-
 public class WordCount {
 	/**
 	 * Constructs and returns a map of the distinct words in the specified list with
